@@ -1,0 +1,21 @@
+uses
+	Core;
+
+file
+	PrimeTester.cpp,
+	PrimeTester.h,
+	PalindromicNumber.cpp,
+	PalindromicNumber.h,
+	Curious.cpp,
+	Curious.h,
+	Pandigital.h,
+	TriangleWords.cpp,
+	TriangleWords.h,
+	PermutationGenerator.cpp,
+	PermutationGenerator.h,
+	Pandigital.cpp,
+	MultiplePandigital.cpp,
+	MultiplePandigital.h,
+	RightAngleTriangleTester.h,
+	ConsoleTests.cpp;
+
